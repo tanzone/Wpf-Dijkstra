@@ -1,0 +1,131 @@
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojResolveAssemblyReference.cache
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.Cache
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Sistemi\5A\Manuel\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.csprojAssemblyReference.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\App.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra - Copia\WpfDijkstra\obj\Debug\ConfigWindow.baml
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojResolveAssemblyReference.cache
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Users\stanzi8\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojResolveAssemblyReference.cache
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.CoreCompileInputs.cache
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+E:\_SCUOLA_5 INF\cose_Ollari\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojAssemblyReference.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Desktop\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojAssemblyReference.cache
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Users\Tanzi\Downloads\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojResolveAssemblyReference.cache
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.cache
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+C:\Users\stanzi8\Downloads\WpfDijkstra-20181218T073024Z-001\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+E:\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe.config
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.exe
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.pdb
+E:\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.exe
+E:\WpfDijkstra\WpfDijkstra\bin\Debug\WpfDijkstra.pdb
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csprojResolveAssemblyReference.cache
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.g.cs
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.g.cs
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\App.g.cs
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.cache
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra_MarkupCompile.lref
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\ConfigWindow.baml
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\MainWindow.baml
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.g.resources
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.Properties.Resources.resources
+E:\WpfDijkstra\WpfDijkstra\obj\Debug\WpfDijkstra.csproj.GenerateResource.Cache

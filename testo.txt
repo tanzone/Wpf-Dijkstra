@@ -1,0 +1,16 @@
+Scrivere un progetto con C# (Dijkstra1.csproj) composto da due finestre (main e setup).
+Nella finestra principale vanno riportati:
+1. Nome utente loggato
+2. Nome macchina in uso
+3. Versione dell'OS
+4. Nome utente loggato precedentemente
+5. Nome del file di configurazione (.xml)
+6. Una matrice quadrata con i nomi delle province dell'Emilia Romagna e, sugli incroci, le rispettive distanze.
+7. Consente di selezionare due province (partenza e destinazione) e le mostra.
+8. I dati delle province sono persistenti
+9. La finestra secondaria consente di impostare i dati delle province.
+
+Consegna: un file zip con il cognome, contenente solo i files necessari.
+sabato' 27 ottobre
+
+
